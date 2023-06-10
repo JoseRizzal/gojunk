@@ -1,4 +1,4 @@
-package namegen
+package portable_name_generator
 
 import (
 	"fmt"
